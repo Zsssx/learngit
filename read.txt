@@ -7,3 +7,4 @@ This is bug branch.
 Player:improve image and Player2: fix connection.
 
 restart
+玩家二：修改了API。
