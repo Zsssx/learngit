@@ -4,3 +4,4 @@ There is a Bug.
 Bug fixed and problem solved.
 This is master branch.
 This is bug branch.
+Player:improve image.
