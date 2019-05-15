@@ -1,3 +1,4 @@
 Creating a new branch is quick and simple.
 no ff merge test.
 There is a Bug.
+Bug fixed and problem solved.
