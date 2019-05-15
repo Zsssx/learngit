@@ -6,3 +6,4 @@ This is master branch.
 This is bug branch.
 Player:improve image and Player2: fix connection.
 
+restart
