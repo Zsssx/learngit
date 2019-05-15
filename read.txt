@@ -8,3 +8,4 @@ Player:improve image and Player2: fix connection.
 
 restart
 玩家一：修改了游戏角色。
+        修改了游戏界面。
